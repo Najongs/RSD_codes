@@ -2,7 +2,7 @@
 
 This repository contains code for robot system design using a Panda robot in Isaac Sim.
 
-** Note: Please ensure you set all file paths according to your own codebase and environment.
+** Note: Please ensure you set all file paths according to your own codebase and environment. **
 
 ## File Descriptions
 

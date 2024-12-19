@@ -5,7 +5,7 @@ __pycache__/
 
 # .DS file 
 
-/functions/.DS_Store
+functions/.DS_Store
 # C extensions
 *.so
 
